@@ -1,0 +1,11 @@
+.msgSection img{
+    padding:0!important
+}
+.msgSection .kt-scroll {
+    position: relative!important;
+    overflow: auto!important;
+    height: 40vh!important;
+}
+.msgSection .kt-app__toggle .kt-scroll{
+    height: calc(40vh + 181px)!important;
+}
